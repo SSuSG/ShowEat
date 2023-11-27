@@ -76,49 +76,49 @@
 
 # 펀딩 검색/필터링/정렬
 <div>
-<img src="/uploads/11a069de19a2054e5f6f32e2143a8560/펀딩-검색.gif" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/c952ddd6-1162-4b05-9717-120af7282a4c" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/cf75177c-fbcc-4d00-aeae-147011fd0f9a" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/db6b1c99-7259-46dd-93eb-cc0d211d4272" width="500px" height="400px" />
+<img src="/uploads/11a069de19a2054e5f6f32e2143a8560/펀딩-검색.gif" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/c952ddd6-1162-4b05-9717-120af7282a4c" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/cf75177c-fbcc-4d00-aeae-147011fd0f9a" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/db6b1c99-7259-46dd-93eb-cc0d211d4272" width="600px" height="400px" />
 </div>
 
 
 # 펀딩/리뷰 조회
 <div>
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/e36399ee-5903-46fd-bd2a-f5854381c97e" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/f805966d-b953-4f32-b400-94f5dd9f9249" width="500px" height="400px" />
-<img src="/uploads/c80ef4b94042f6014597e24c0975fbfe/업체-정보_-리뷰-조회_1.gif" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/4fb77bec-4187-429c-b130-50aa144cd930" width="500px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/e36399ee-5903-46fd-bd2a-f5854381c97e" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/f805966d-b953-4f32-b400-94f5dd9f9249" width="600px" height="400px" />
+<img src="/uploads/c80ef4b94042f6014597e24c0975fbfe/업체-정보_-리뷰-조회_1.gif" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/4fb77bec-4187-429c-b130-50aa144cd930" width="600px" height="400px" />
 </div>
 
 # 내 정보 및 캐시카우 충전
 <div>
-<img src="/uploads/e1f45cf0dac4e58bfa4b368e3265627c/자신의참여펀딩_관심펀딩조회_2.gif" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/f3c4ee30-ca5f-4856-882b-8bd1376e5995" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/012234a3-56f3-4a3a-809f-eabfd16578a1" width="500px" height="400px" />
+<img src="/uploads/e1f45cf0dac4e58bfa4b368e3265627c/자신의참여펀딩_관심펀딩조회_2.gif" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/f3c4ee30-ca5f-4856-882b-8bd1376e5995" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/012234a3-56f3-4a3a-809f-eabfd16578a1" width="600px" height="400px" />
 </div>
 
 # 셀러 신청 및 조회
 <div>
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/d75a8b39-de87-4ecf-8991-f2eb971bb302" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/8f218d5e-6259-4dec-bf80-fbabe776c85b" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/e236894e-49c9-47db-b32c-aeb93507552f" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/cbc31b55-0fe0-4d9e-a4e9-223f1497aa81" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/a0bf6d5f-289f-4d7a-beee-adebc8353f8e" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/4b33ae7c-147a-4c77-93a8-967526423985" width="500px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/d75a8b39-de87-4ecf-8991-f2eb971bb302" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/8f218d5e-6259-4dec-bf80-fbabe776c85b" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/e236894e-49c9-47db-b32c-aeb93507552f" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/cbc31b55-0fe0-4d9e-a4e9-223f1497aa81" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/a0bf6d5f-289f-4d7a-beee-adebc8353f8e" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/40b76051-bf0d-4219-894c-b8b6f56b8e6e" width="600px" height="400px" />
 </div>
 
 
 # 펀딩 생성
 <div>
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/3686488d-f17b-408b-a4c2-cab15bb21703" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/c98d8e60-62ac-49bd-be4a-14d1576de293" width="500px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/3686488d-f17b-408b-a4c2-cab15bb21703" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/c98d8e60-62ac-49bd-be4a-14d1576de293" width="600px" height="400px" />
 </div>
 
 # 쿠폰 사용
 <div>
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/9d815e0f-b0e6-40cb-8e6f-213c1b731699" width="500px" height="400px" />
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/79a32843-b135-4fdf-b41f-be9d183a2d95" width="500px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/9d815e0f-b0e6-40cb-8e6f-213c1b731699" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/79a32843-b135-4fdf-b41f-be9d183a2d95" width="600px" height="400px" />
 </div>
 
 
@@ -169,8 +169,8 @@
 <details>
   <summary>더보기</summary>
     <div markdown="1">       
-        ![기술스택1](/uploads/d94fde22ca4a97ef9a48d3303d176d3a/기술스택1.PNG)
-        ![기술스택2](/uploads/f6468fa2522015f0c5360c79aeda7785/기술스택2.PNG)
+        ![기술스택1](https://github.com/SSuSG/ShowEat/assets/33506590/6dd37622-7e35-4765-bc4c-f64ce53a5d47)
+![기술스택2](https://github.com/SSuSG/ShowEat/assets/33506590/89a9c689-1a52-492f-970c-79ded1bb5163)
     </div>
     
 </details>
@@ -593,7 +593,6 @@
 <summary>스크럼 페이지 세부 모습</summary>
 <div markdown="1"> 
 	<img src="https://github.com/Haaarimmm/TIL/assets/108309396/d4e2c362-2459-433f-960d-cd9370068c34" />
-   ![image]()
 </div>
 </details>
 <details>
