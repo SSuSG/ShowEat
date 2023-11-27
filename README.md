@@ -583,8 +583,8 @@
 ### 회의록
 <details>
 <summary>페이지 전체 모습</summary>
-<div markdown="1">       
-    ![image](https://github.com/Haaarimmm/TIL/assets/108309396/56819b16-7349-4a64-8eb8-37358ef0c91c)
+<div markdown="1">    
+	<img src="https://github.com/Haaarimmm/TIL/assets/108309396/56819b16-7349-4a64-8eb8-37358ef0c91c" />
 </div>
 </details>
 
