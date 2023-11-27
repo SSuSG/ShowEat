@@ -85,7 +85,7 @@
 
 # 펀딩/리뷰 조회
 <div>
-<img src="https://github.com/SSuSG/ShowEat/assets/33506590/7833dcd6-109f-4d71-b7cc-655fd18e38a1" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/96f58efa-f963-4613-8912-45c95af845bb" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/e36399ee-5903-46fd-bd2a-f5854381c97e" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/f805966d-b953-4f32-b400-94f5dd9f9249" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/4a7512ad-2c6b-46bf-8958-b22bce95fafb" width="600px" height="400px" />
