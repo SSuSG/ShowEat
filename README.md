@@ -68,7 +68,7 @@
 ## 🖥 서비스 화면
 
 # 메인 페이지
-<img src="/uploads/399038a06999079e4b7d0d3d3dd3b40b/메인-페이지.gif" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/c07eff07-0db3-4702-9909-ed557b6e81ff" width="600px" height="400px" />
 
 
 # 로그인 
@@ -76,7 +76,7 @@
 
 # 펀딩 검색/필터링/정렬
 <div>
-<img src="/uploads/11a069de19a2054e5f6f32e2143a8560/펀딩-검색.gif" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/8d8fe1fd-2497-40d2-be47-a1b2e7211a3c" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/c952ddd6-1162-4b05-9717-120af7282a4c" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/cf75177c-fbcc-4d00-aeae-147011fd0f9a" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/db6b1c99-7259-46dd-93eb-cc0d211d4272" width="600px" height="400px" />
@@ -85,15 +85,16 @@
 
 # 펀딩/리뷰 조회
 <div>
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/7833dcd6-109f-4d71-b7cc-655fd18e38a1" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/e36399ee-5903-46fd-bd2a-f5854381c97e" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/f805966d-b953-4f32-b400-94f5dd9f9249" width="600px" height="400px" />
-<img src="/uploads/c80ef4b94042f6014597e24c0975fbfe/업체-정보_-리뷰-조회_1.gif" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/4a7512ad-2c6b-46bf-8958-b22bce95fafb" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/4fb77bec-4187-429c-b130-50aa144cd930" width="600px" height="400px" />
 </div>
 
 # 내 정보 및 캐시카우 충전
 <div>
-<img src="/uploads/e1f45cf0dac4e58bfa4b368e3265627c/자신의참여펀딩_관심펀딩조회_2.gif" width="600px" height="400px" />
+<img src="https://github.com/SSuSG/ShowEat/assets/33506590/a9a86dc0-85c0-4ce5-9160-3fcde76fd26a" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/f3c4ee30-ca5f-4856-882b-8bd1376e5995" width="600px" height="400px" />
 <img src="https://github.com/SSuSG/ShowEat/assets/33506590/012234a3-56f3-4a3a-809f-eabfd16578a1" width="600px" height="400px" />
 </div>
