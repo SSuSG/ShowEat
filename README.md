@@ -361,7 +361,7 @@
 <details>
 <summary>ERD</summary>
 <div markdown="1">       
-    ![image](https://github.com/Haaarimmm/TIL/assets/108309396/c8896df5-7f59-4590-9285-8305faac0f40)
+<img src="https://github.com/Haaarimmm/TIL/assets/108309396/c8896df5-7f59-4590-9285-8305faac0f40" />
 </div>
 </details>
 
@@ -369,9 +369,10 @@
 ### API
 <details>
 <summary>전체 문서</summary>
-<div markdown="1">       
-    ![image](https://github.com/Haaarimmm/TIL/assets/108309396/32cc47e9-d3ab-4d3a-892e-03eee625a0bc)
-    ![image](https://github.com/Haaarimmm/TIL/assets/108309396/93c12925-3d43-40f5-9412-775d0880bd7c)
+<div markdown="1">   
+<img src="https://github.com/Haaarimmm/TIL/assets/108309396/32cc47e9-d3ab-4d3a-892e-03eee625a0bc" />
+<img src="https://github.com/Haaarimmm/TIL/assets/108309396/93c12925-3d43-40f5-9412-775d0880bd7c" />
+
 </div>
 </details>
 
@@ -381,8 +382,6 @@
     <img src="https://hackmd.io/_uploads/SJ3r6Mihh.png" alt="Request 페이지"/>
 </div>
 </details>
-
-
 
 <details>
 <summary>Response</summary>
@@ -396,8 +395,8 @@
 
 <details>
 <summary>FIGMA</summary>
-<div markdown="1">       
-    ![image](https://github.com/Haaarimmm/TIL/assets/108309396/5bb0c5c1-1dda-4bc7-9b66-e97713bc3c9d)
+<div markdown="1"> 
+<img src="https://github.com/Haaarimmm/TIL/assets/108309396/5bb0c5c1-1dda-4bc7-9b66-e97713bc3c9d" />
 </div>
 </details> 
 
@@ -592,22 +591,23 @@
 </details>
 <details>
 <summary>스크럼 페이지 세부 모습</summary>
-<div markdown="1">       
-   ![image](https://github.com/Haaarimmm/TIL/assets/108309396/d4e2c362-2459-433f-960d-cd9370068c34)
+<div markdown="1"> 
+	<img src="https://github.com/Haaarimmm/TIL/assets/108309396/d4e2c362-2459-433f-960d-cd9370068c34" />
+   ![image]()
 </div>
 </details>
 <details>
 <summary>스프린트 페이지 세부 모습</summary>
-<div markdown="1">       
-    ![image](https://github.com/Haaarimmm/TIL/assets/108309396/4c639d72-a22d-4fed-a0ea-6be03dfba390)
+<div markdown="1">
+	<img src="https://github.com/Haaarimmm/TIL/assets/108309396/4c639d72-a22d-4fed-a0ea-6be03dfba390" />
 </div>
 </details>
   
 ### 지식 공유
 <details>
 <summary>페이지 전체 모습</summary>
-<div markdown="1">       
-    ![image](https://github.com/Haaarimmm/TIL/assets/108309396/1dc05c58-2788-4fb7-8ebb-52ddcc3dc82b)
+<div markdown="1">    
+	<img src="https://github.com/Haaarimmm/TIL/assets/108309396/1dc05c58-2788-4fb7-8ebb-52ddcc3dc82b" />
 </div>
 </details>
 
